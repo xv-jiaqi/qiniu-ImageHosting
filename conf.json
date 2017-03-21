@@ -1,0 +1,6 @@
+{
+    "src": "E:/blogImg/",
+    "dest": "qiniu:access_key=5P8ay5sRHnXSbXktejf-8hGLtBw4AqUBGKancX7T&secret_key=BclgQxWM2yByCzrp49bqyPXT8SEGPLzN1lgdftPk&bucket=jq-blog",
+    "debug_level": 1,
+    "host": "http://oe8r161mt.bkt.clouddn.com/webSite?watermark/2/text/6K-65Lqa55qE6ZuO6big/font/5b6u6L2v6ZuF6buR/fontsize/500/fill/I0VGRUZFRg==/dissolve/40/gravity/SouthEast/dx/10/dy/10"
+}
