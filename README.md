@@ -30,7 +30,7 @@ _> qrsync conf.json
 
  图片地址为：
   `http://[域名][图片路径]`，如：<br>
- *http://oe8r161mt.bkt.clouddn.com/others/qiniuLogo.png*，
+ http://oe8r161mt.bkt.clouddn.com/others/qiniuLogo.png
 
 1. chrome插件
  <br>chrome 上安装[**qiniu upload files**](https://chrome.google.com/webstore/detail/qiniu-upload-files/emmfkgdgapbjphdolealbojmcmnphdcc?utm_source=chrome-app-launcher-info-dialog)方便管理和查看。
